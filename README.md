@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sandeep Kumar</h1>
-<h3 align="center">A Competative Programmer</h3>
+<h3 align="center">A Competitive Programmer.</h3>
 
 - 🔭 I'm an undergraduate student in **Mathematics at the Indian Institute of Technology, Roorkee.**
 
