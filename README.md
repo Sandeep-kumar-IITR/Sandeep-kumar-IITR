@@ -10,6 +10,7 @@ I studied Applied Mathematics at IIT Roorkee. Outside work, I spend time on comp
 - **Education:** Integrated M.Sc. in Applied Mathematics, IIT Roorkee
 - **Interests:** Backend engineering, distributed systems, AI/LLM applications, data engineering and quantitative computing
 - **LinkedIn:** [sandeep-kumar](https://www.linkedin.com/in/sandeep-kumar-3623181ba/)
+- **Resume:** [Software Engineering](https://github.com/Sandeep-kumar-IITR/resume/blob/master/sandeep_kumar_swe.pdf) · [Quantitative](https://github.com/Sandeep-kumar-IITR/resume/blob/master/sandeep_kumar_quant.pdf)
 
 ## Work
 
